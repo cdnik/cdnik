@@ -9,9 +9,9 @@ Trusted by startups and established enterprises to completely revamp their digit
 I've delivered over 30 tailored projects, each reflecting a commitment to clarity, efficiency, and purposeful design. I approach each project with a pixel-perfect mindset. Digital products that feel crafted and not just assembled. You can check out some of those [projects here](https://www.behance.net/lichtwald).
 
 ## 🔮 Fun Facts 
-+ First computer: ZX-Spectrum with Sinclair BASIC in 1987
++ First computer: [ZX-Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) with Sinclair BASIC in 1987
 + First program: X-Mas lights pattern controller (Assembler).
-+ Mechanical (MX), Neovim, Unix/Linux, btw
++ [Mechanical](https://www.tomshardware.com/reviews/turtle-beach-impact-700-mechanical-keyboard,4497-2.html) (MX), [Neovim](https://neovim.io/), Unix/Linux, btw
 + Producing some music, btw
 
 <!--
