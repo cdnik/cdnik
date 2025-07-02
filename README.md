@@ -4,7 +4,7 @@
 I'm a creative technologist with over 17 years of experience crafting individual web solutions and guiding businesses through digital transformations. Since **2007**, I’ve been hands-on with front-end development, server management and CMS integration. Beyond building interfaces, I’ve been trusted by startups and established enterprises to completely revamp their digital presence—from **strategic restructuring** to **redesigning and rebuilding** their web platforms from the ground up.
 
 ## 💼 Projects
-I've delivered over 30 tailored projects, each reflecting a commitment to clarity, efficiency, and purposeful design. For me, software design is about balance, clarity, and cohesion. I approach each project with a pixel-perfect mindset. Structure matters. Speed matters. Detail matters. Digital products that feel crafted—not just assembled.
+I've delivered over 30 tailored projects, each reflecting a commitment to clarity, efficiency, and purposeful design. For me, software design is about balance, clarity, and cohesion. I approach each project with a pixel-perfect mindset. Structure matters. Speed matters. Detail matters. Digital products that feel crafted and not just assembled.
 
 ## Languages
 
