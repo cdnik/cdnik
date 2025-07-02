@@ -7,9 +7,6 @@ I'm a creative technologist with over 17 years of experience crafting individual
 I've delivered over 30 tailored projects, each reflecting a commitment to clarity, efficiency, and purposeful design. For me, software design is about balance, clarity, and cohesion. I approach each project with a pixel-perfect mindset. Structure matters. Speed matters. Detail matters. Digital products that feel crafted and not just assembled.   
 You can check out some of those [projects here](https://www.behance.net/lichtwald).
 
-## Languages
-
-
 
 <!--
 **cdnik/cdnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
