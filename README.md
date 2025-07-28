@@ -1,4 +1,4 @@
-## Greetings and salutations! 👋
+## Greetings, and salutations! 👋
 
 ## 👨‍💻 Introduction
 I'm a creative technologist with over 17 years of experience guiding businesses through digital transformations. Since **2007**, I’ve been hands-on with front-end development and CMS integration.  
